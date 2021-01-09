@@ -1,11 +1,12 @@
 * {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  color: white;
 }
 
 body {
   background-color: black;
-  overflow-x: hidden;
+  overflow: hidden;
   display: grid;
   height: 70vh;
   justify-content: center;
@@ -22,4 +23,9 @@ h1 {
 }
 .btn {
   cursor: pointer;
+  color: black;
 }
+
+/* hamburger  */
+
+
